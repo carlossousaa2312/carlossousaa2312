@@ -90,7 +90,6 @@ Site desenvolvido para apresentar meus projetos, conhecimentos e evolução como
 
 <div align="center">
 
-<img src="https://i.imgflip.com/65efzo.gif" height="180"/>
 
 </div>
 
