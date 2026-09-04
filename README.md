@@ -27,7 +27,7 @@
 
 ## 📚 Atualmente estudando
 
-- JavaScript (ES6+)
+- JavaScript
 - Manipulação do DOM
 - HTML5 e CSS3
 - Node.js
