@@ -37,17 +37,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=carlossousaa2312&show_icons=true&theme=github_dark&locale=pt-br"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossousaa2312&layout=compact&theme=github_dark&locale=pt-br"/>
-
-</div>
-
----
 
 ## 🌐 Redes Sociais
 
